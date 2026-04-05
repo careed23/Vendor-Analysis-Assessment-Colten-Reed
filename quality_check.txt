@@ -1,0 +1,343 @@
+QUALITY CHECK REPORT
+==================================================
+
+PASS: Completeness
+PASS: Department Validity
+PASS: Recommendation Validity
+FAIL: Description Quality
+PASS: Logical Recommendations
+
+Total Issues: 331
+
+Detailed Issues:
+  - Description too generic for Zagrebtower D.O.O.: Zagrebtower D.O.O. provides specialized services and solutions
+  - Description too generic for Innovent Spaces Private Limited: Innovent Spaces Private Limited provides specialized services and solutions
+  - Description too generic for Weking D.O.O.: Weking D.O.O. provides specialized services and solutions
+  - Description too generic for Jensten Insurance Brokers: Jensten Insurance Brokers provides specialized services and solutions
+  - Description too generic for Gpt Space & Co: Gpt Space & Co provides specialized services and solutions
+  - Description too generic for Rsm Uk Corporate Finance Llp: Rsm Uk Corporate Finance provides specialized services and solutions
+  - Description too generic for 4I Advisory Services: 4I Advisory Services provides specialized services and solutions
+  - Description too generic for Harmonic Group Limited: Harmonic Group Limited provides specialized services and solutions
+  - Description too generic for Cloud Technology Solutions Ltd: Cloud Technology Solutions provides specialized services and solutions
+  - Description too generic for Tmforum: Tmforum provides specialized services and solutions
+  - Description too generic for SveuäIliå¡Te U Zagrebu, Studentski Centar: SveuäIliå¡Te U Zagrebu, Studentski Centar provides specialized services and solutions
+  - Description too generic for Ss&C Intralinks Inc: Ss&C Intralinks provides specialized services and solutions
+  - Description too generic for Veniture D.O.O.: Veniture D.O.O. provides specialized services and solutions
+  - Description too generic for Accutrainee Limited: Accutrainee Limited provides specialized services and solutions
+  - Description too generic for Mason Frank International Ltd: Mason Frank International provides specialized services and solutions
+  - Description too generic for Houlihan Lokey Advisors, Llc: Houlihan Lokey Advisors, Llc provides specialized services and solutions
+  - Description too generic for Vector Capital Management Lp: Vector Capital Management Lp provides specialized services and solutions
+  - Description too generic for Nefron - Obrt Za Poslovne Usluge: Nefron - Obrt Za Poslovne Usluge provides specialized services and solutions
+  - Description too generic for Agram Life Osiguranje D.O.O.: Agram Life Osiguranje D.O.O. provides specialized services and solutions
+  - Description too generic for Zuric I Partneri Odvjetnicko Drustvo D.O.O.: Zuric I Partneri Odvjetnicko Drustvo D.O.O. provides specialized services and solutions
+  - Description too generic for Care Health Insurance Company Limited: Care Health Insurance Company Limited provides specialized services and solutions
+  - Description too generic for New Star Networks(Nsn): New Star Networks(Nsn) provides specialized services and solutions
+  - Description too generic for Bupa- Supplier: Bupa- Supplier provides specialized services and solutions
+  - Description too generic for Shree Info System Solutions Pvt Ltd: Shree Info System Solutions Pvt provides specialized services and solutions
+  - Description too generic for Technet It Recruitment: Technet It Recruitment provides specialized services and solutions
+  - Description too generic for Mightyhive Ltd: Mightyhive provides specialized services and solutions
+  - Description too generic for Cedar Recruitment Ltd: Cedar Recruitment provides specialized services and solutions
+  - Description too generic for Eurofast International Ltd-Greec: Eurofast International-Greec provides specialized services and solutions
+  - Description too generic for Sodexo Svc India Private Limited: Sodexo Svc India Private Limited provides specialized services and solutions
+  - Description too generic for Plus Your Business Ltd: Plus Your Business provides specialized services and solutions
+  - Description too generic for Benefit Systems D.O.O.: Benefit Systems D.O.O. provides specialized services and solutions
+  - Description too generic for Smart Group Services D.O.O.: Smart Group Services D.O.O. provides specialized services and solutions
+  - Description too generic for Konzum Plus D.O.O.: Konzum Plus D.O.O. provides specialized services and solutions
+  - Description too generic for Westbrook Advisers: Westbrook Advisers provides specialized services and solutions
+  - Description too generic for Work Easy Space Solutions Private Limited: Work Easy Space Solutions Private Limited provides specialized services and solutions
+  - Description too generic for Taxstudio, Ltd.: Taxstudio,. provides specialized services and solutions
+  - Description too generic for Pingo D.O.O.: Pingo D.O.O. provides specialized services and solutions
+  - Description too generic for Magazin Raunalni Sistemi D.O.O.: Magazin Raunalni Sistemi D.O.O. provides specialized services and solutions
+  - Description too generic for Tp Prime D.O.O.: Tp Prime D.O.O. provides specialized services and solutions
+  - Description too generic for Granttree Limited: Granttree Limited provides specialized services and solutions
+  - Description too generic for Cigna Sg: Cigna Sg provides specialized services and solutions
+  - Description too generic for Collards Chartered Accountants: Collards Chartered Accountants provides specialized services and solutions
+  - Description too generic for Bupa Australia: Bupa Australia provides specialized services and solutions
+  - Description too generic for 4I Management Consulting Private Limited: 4I Management Consulting Private Limited provides specialized services and solutions
+  - Description too generic for Grad Zagreb, Gradski Ured Za Prostorno Ureä'Enje,..: Grad Zagreb, Gradski Ured Za Prostorno Ureä'Enje,.. provides specialized services and solutions
+  - Description too generic for Bijeli Pijesak Obrt Za Poslovno Savjetovanje: Bijeli Pijesak Obrt Za Poslovno Savjetovanje provides specialized services and solutions
+  - Description too generic for Ramiro D.O.O.: Ramiro D.O.O. provides specialized services and solutions
+  - Description too generic for Visalogic Limited: Visalogic Limited provides specialized services and solutions
+  - Description too generic for Poles Ltd - Hanbury Manor: Poles - Hanbury Manor provides specialized services and solutions
+  - Description too generic for Shoff Darby Companies: Shoff Darby Companies provides specialized services and solutions
+  - Description too generic for Emerge Development Consultancy Ltd: Emerge Development Consultancy provides specialized services and solutions
+  - Description too generic for Performancepro: Performancepro provides specialized services and solutions
+  - Description too generic for Catering Muring: Catering Muring provides specialized services and solutions
+  - Description too generic for Omonia D.O.O.: Omonia D.O.O. provides specialized services and solutions
+  - Description too generic for Studentski Centar - Split: Studentski Centar - Split provides specialized services and solutions
+  - Description too generic for The Guardian: The Guardian provides specialized services and solutions
+  - Description too generic for Intertrust Singapore Corporate Services Pte Ltd - Csc: Intertrust Singapore Corporate Services Pte - Csc provides specialized services and solutions
+  - Description too generic for Goto Technologies Uk Limited: Goto Technologies Uk Limited provides specialized services and solutions
+  - Description too generic for Hrsolution International Ag: Hrsolution International Ag provides specialized services and solutions
+  - Description too generic for Obrt Sjaj Sunca: Obrt Sjaj Sunca provides specialized services and solutions
+  - Description too generic for Telefã³Nica Compras Electrã³Nicas S.L.: Telefã³Nica Compras Electrã³Nicas S.L. provides specialized services and solutions
+  - Description too generic for Allianz Australia Workers' Compensation (Victoria) Limited: Allianz Australia Workers' Compensation (Victoria) Limited provides specialized services and solutions
+  - Description too generic for Icici Lombard Gic Ltd: Icici Lombard Gic provides specialized services and solutions
+  - Description too generic for Mosaic Concept D.O.O.: Mosaic Concept D.O.O. provides specialized services and solutions
+  - Description too generic for Limes Plus D.O.O.: Limes Plus D.O.O. provides specialized services and solutions
+  - Description too generic for Mercer Limited: Mercer Limited provides specialized services and solutions
+  - Description too generic for Acclime Corporate Services: Acclime Corporate Services provides specialized services and solutions
+  - Description too generic for Green Commute Initiative: Green Commute Initiative provides specialized services and solutions
+  - Description too generic for Tattu Manchester Limited: Tattu Manchester Limited provides specialized services and solutions
+  - Description too generic for Athlete Service Ltd: Athlete Service provides specialized services and solutions
+  - Description too generic for Amazon Web Services Inc.: Amazon Web Services. provides specialized services and solutions
+  - Description too generic for Acclime Usa, Inc: Acclime Usa, provides specialized services and solutions
+  - Description too generic for Centar Za Sigurnost D.O.O.: Centar Za Sigurnost D.O.O. provides specialized services and solutions
+  - Description too generic for Profi Bar D.O.O.: Profi Bar D.O.O. provides specialized services and solutions
+  - Description too generic for Pinnacle Partnership Ca: Pinnacle Partnership Ca provides specialized services and solutions
+  - Description too generic for The Virtual Legal Counsel Ltd: The Virtual Legal Counsel provides specialized services and solutions
+  - Description too generic for Australian Payroll Professionals Pty Ltd: Australian Payroll Professionals Pty provides specialized services and solutions
+  - Description too generic for Inter Continental Chennai Mahabalipuram Resort: Inter Continental Chennai Mahabalipuram Resort provides specialized services and solutions
+  - Description too generic for Crowe Horwath Revizija D.O.O.: Crowe Horwath Revizija D.O.O. provides specialized services and solutions
+  - Description too generic for Puducherry Backwater Resort Private Limited: Puducherry Backwater Resort Private Limited provides specialized services and solutions
+  - Description too generic for Orionw Llc: Orionw Llc provides specialized services and solutions
+  - Description too generic for Common Desk, Llc: Common Desk, Llc provides specialized services and solutions
+  - Description too generic for Hep Elektra D.O.O.: Hep Elektra D.O.O. provides specialized services and solutions
+  - Description too generic for Zivi Napitak D.O.O.: Zivi Napitak D.O.O. provides specialized services and solutions
+  - Description too generic for Gym4You D.O.O.: Gym4You D.O.O. provides specialized services and solutions
+  - Description too generic for Apple Retail Uk Ltd: Apple Retail Uk provides specialized services and solutions
+  - Description too generic for Kryterion, Inc.: Kryterion,. provides specialized services and solutions
+  - Description too generic for Calm Achiever(A Unit Of Mohsin Ali Vakil): Calm Achiever(A Unit Of Mohsin Ali Vakil) provides specialized services and solutions
+  - Description too generic for Pluxee India Private Limited: Pluxee India Private Limited provides specialized services and solutions
+  - Description too generic for Oâ€™Donnell Salzano Lawyers: Oâ€™Donnell Salzano Lawyers provides specialized services and solutions
+  - Description too generic for Papertrail Inc: Papertrail provides specialized services and solutions
+  - Description too generic for Sniper Systems And Solutions Private Limited: Sniper Systems And Solutions Private Limited provides specialized services and solutions
+  - Description too generic for Trocadero (London) Hotel Ltd: Trocadero (London) Hotel provides specialized services and solutions
+  - Description too generic for Golubica Parking D.O.O.: Golubica Parking D.O.O. provides specialized services and solutions
+  - Description too generic for Ikea Hrvatska D.O.O.: Ikea Hrvatska D.O.O. provides specialized services and solutions
+  - Description too generic for Orcola D.O.O.: Orcola D.O.O. provides specialized services and solutions
+  - Description too generic for Info Edge India Limited: Info Edge India Limited provides specialized services and solutions
+  - Description too generic for Grad Split: Grad Split provides specialized services and solutions
+  - Description too generic for Akton D.O.O.: Akton D.O.O. provides specialized services and solutions
+  - Description too generic for Bureau Veritas Croatia D.O.O.: Bureau Veritas Croatia D.O.O. provides specialized services and solutions
+  - Description too generic for Cici Prudential Life Insurance Co. Ltd.: Cici Prudential Life Insurance Co.. provides specialized services and solutions
+  - Description too generic for Ncc Services Limited: Ncc Services Limited provides specialized services and solutions
+  - Description too generic for Good Game Global D.O.O.: Good Game Global D.O.O. provides specialized services and solutions
+  - Description too generic for Garaå¾A Firule D.O.O.: Garaå¾A Firule D.O.O. provides specialized services and solutions
+  - Description too generic for Crossland: Crossland provides specialized services and solutions
+  - Description too generic for It London: It London provides specialized services and solutions
+  - Description too generic for Terrapinn Holdings Ltd: Terrapinn Holdings provides specialized services and solutions
+  - Description too generic for Elemental Life Solutions Llp: Elemental Life Solutions provides specialized services and solutions
+  - Description too generic for United Flow Ltd (The Goodness Project): United Flow (The Goodness Project) provides specialized services and solutions
+  - Description too generic for Mcburneys Charted Accountants: Mcburneys Charted Accountants provides specialized services and solutions
+  - Description too generic for Cleverland Winery Resort: Cleverland Winery Resort provides specialized services and solutions
+  - Description too generic for Lusha: Lusha provides specialized services and solutions
+  - Description too generic for My Foodiverse Llp: My Foodiverse provides specialized services and solutions
+  - Description too generic for 4Imprint Direct Ltd: 4Imprint Direct provides specialized services and solutions
+  - Description too generic for City Pantry Ltd: City Pantry provides specialized services and solutions
+  - Description too generic for Stipe Piric: Stipe Piric provides specialized services and solutions
+  - Description too generic for Office Move London: Office Move London provides specialized services and solutions
+  - Description too generic for Pink Ribbon Shop: Pink Ribbon Shop provides specialized services and solutions
+  - Description too generic for Starhub Ltd (Supplier): Starhub (Supplier) provides specialized services and solutions
+  - Description too generic for N S Shastri And Co: N S Shastri And Co provides specialized services and solutions
+  - Description too generic for John Smith: John Smith provides specialized services and solutions
+  - Description too generic for Fabiola Thistlewhaite: Fabiola Thistlewhaite provides specialized services and solutions
+  - Description too generic for Hp Inc Uk Limited: Hp Uk Limited provides specialized services and solutions
+  - Description too generic for Cision Pr Newswire: Cision Pr Newswire provides specialized services and solutions
+  - Description too generic for George Anchor: George Anchor provides specialized services and solutions
+  - Description too generic for Yoxel, Inc: Yoxel, provides specialized services and solutions
+  - Description too generic for Grt Hotels And Resorts P Ltd: Grt Hotels And Resorts P provides specialized services and solutions
+  - Description too generic for Apple Pty Ltd: Apple Pty provides specialized services and solutions
+  - Description too generic for G S Notary Public Limited: G S Notary Public Limited provides specialized services and solutions
+  - Description too generic for Apple Distribution International Ltd: Apple Distribution International provides specialized services and solutions
+  - Description too generic for Porezno Savjetniå¡Tvo Tuk D.O.O.: Porezno Savjetniå¡Tvo Tuk D.O.O. provides specialized services and solutions
+  - Description too generic for Susan Lee: Susan Lee provides specialized services and solutions
+  - Description too generic for Ansar Madovic: Ansar Madovic provides specialized services and solutions
+  - Description too generic for Radius Group, Inc: Radius Group, provides specialized services and solutions
+  - Description too generic for Aquila Remete D.O.O.: Aquila Remete D.O.O. provides specialized services and solutions
+  - Description too generic for Clime India Private Limited: Clime India Private Limited provides specialized services and solutions
+  - Description too generic for Golden Mean, Inc: Golden Mean, provides specialized services and solutions
+  - Description too generic for Paint & Fun Vl. Martina Milkova Nikolova: Paint & Fun Vl. Martina Milkova Nikolova provides specialized services and solutions
+  - Description too generic for Carrington Communications: Carrington Communications provides specialized services and solutions
+  - Description too generic for Crayond Digital Private Limited: Crayond Digital Private Limited provides specialized services and solutions
+  - Description too generic for Studentski Centar Karlovac: Studentski Centar Karlovac provides specialized services and solutions
+  - Description too generic for Lajnap Comedy Booking D.O.O.: Lajnap Comedy Booking D.O.O. provides specialized services and solutions
+  - Description too generic for Etm Concessions Ltd: Etm Concessions provides specialized services and solutions
+  - Description too generic for Radisson Grt - Unit Of Hotels & Resorts Pvt Ltd: Radisson Grt - Unit Of Hotels & Resorts Pvt provides specialized services and solutions
+  - Description too generic for Ariba Inc: Ariba provides specialized services and solutions
+  - Description too generic for Chamiers Recreation Club: Chamiers Recreation Club provides specialized services and solutions
+  - Description too generic for Inside Edge Novated Leasing: Inside Edge Novated Leasing provides specialized services and solutions
+  - Description too generic for Rhea D.O.O.: Rhea D.O.O. provides specialized services and solutions
+  - Description too generic for P S Recreation Club: P S Recreation Club provides specialized services and solutions
+  - Description too generic for Fastspring: Fastspring provides specialized services and solutions
+  - Description too generic for Dsv Solutions A/S: Dsv Solutions A/S provides specialized services and solutions
+  - Description too generic for Icare Nsw: Icare Nsw provides specialized services and solutions
+  - Description too generic for Thomas Mansfield Solicitors Limited: Thomas Mansfield Solicitors Limited provides specialized services and solutions
+  - Description too generic for Amazon.Co.Uk: Amazon.Co.Uk provides specialized services and solutions
+  - Description too generic for Backoffice Associates: Backoffice Associates provides specialized services and solutions
+  - Description too generic for Oladi D.O.O.: Oladi D.O.O. provides specialized services and solutions
+  - Description too generic for Integrated Personnel Services: Integrated Personnel Services provides specialized services and solutions
+  - Description too generic for Mãœller Trgovina Zagreb D.O.O.: Mãœller Trgovina Zagreb D.O.O. provides specialized services and solutions
+  - Description too generic for Lunch Nutrition D.O.O.: Lunch Nutrition D.O.O. provides specialized services and solutions
+  - Description too generic for Winmaxi Tours & Travels: Winmaxi Tours & Travels provides specialized services and solutions
+  - Description too generic for Digitalna Produkcija J.D.O.O.: Digitalna Produkcija J.D.O.O. provides specialized services and solutions
+  - Description too generic for Computershare-Caboodle Technology Limited: Computershare-Caboodle Technology Limited provides specialized services and solutions
+  - Description too generic for Allianz Wa: Allianz Wa provides specialized services and solutions
+  - Description too generic for Trending Technology Services Gmbh: Trending Technology Services Gmbh provides specialized services and solutions
+  - Description too generic for Godaddy.Com, Llc: Godaddy.Com, Llc provides specialized services and solutions
+  - Description too generic for Time Out Group: Time Out Group provides specialized services and solutions
+  - Description too generic for Raiffeisenbank Austria D.D.: Raiffeisenbank Austria D.D. provides specialized services and solutions
+  - Description too generic for Galop-Prijevoz D.O.O.: Galop-Prijevoz D.O.O. provides specialized services and solutions
+  - Description too generic for Lane Ip Limited: Lane Ip Limited provides specialized services and solutions
+  - Description too generic for Urbani Eventi D.O.O.: Urbani Eventi D.O.O. provides specialized services and solutions
+  - Description too generic for Smashing Media Ag: Smashing Media Ag provides specialized services and solutions
+  - Description too generic for Epignosis Llc: Epignosis Llc provides specialized services and solutions
+  - Description too generic for Croatia Airlines: Croatia Airlines provides specialized services and solutions
+  - Description too generic for Bb Football Scouting J.D.O.O.: Bb Football Scouting J.D.O.O. provides specialized services and solutions
+  - Description too generic for Boe Croatia D.O.O.: Boe Croatia D.O.O. provides specialized services and solutions
+  - Description too generic for Potomac D.O.O.: Potomac D.O.O. provides specialized services and solutions
+  - Description too generic for President Hotel And Tower Co., Ltd: President Hotel And Tower Co., provides specialized services and solutions
+  - Description too generic for Friends Sports Club: Friends Sports Club provides specialized services and solutions
+  - Description too generic for The Cycle Gap Adyar: The Cycle Gap Adyar provides specialized services and solutions
+  - Description too generic for Apple - Amer: Apple - Amer provides specialized services and solutions
+  - Description too generic for Klg - Kalra Legal Group: Klg - Kalra Legal Group provides specialized services and solutions
+  - Description too generic for Kilgannon & Partners Llp: Kilgannon & Partners provides specialized services and solutions
+  - Description too generic for Uk Postbox Limited: Uk Postbox Limited provides specialized services and solutions
+  - Description too generic for Catering Iviä‡ D.O.O.: Catering Iviä‡ D.O.O. provides specialized services and solutions
+  - Description too generic for Blink Events: Blink Events provides specialized services and solutions
+  - Description too generic for Grafo-Jan: Grafo-Jan provides specialized services and solutions
+  - Description too generic for Mesa Verde: Mesa Verde provides specialized services and solutions
+  - Description too generic for Pixsy Inc: Pixsy provides specialized services and solutions
+  - Description too generic for Dun & Bradstreet D.O.O.: Dun & Bradstreet D.O.O. provides specialized services and solutions
+  - Description too generic for Induslaw: Induslaw provides specialized services and solutions
+  - Description too generic for Trans-Agram Obrt Za Dostavu: Trans-Agram Obrt Za Dostavu provides specialized services and solutions
+  - Description too generic for Landu Law Solicitors: Landu Law Solicitors provides specialized services and solutions
+  - Description too generic for Arena Center Zagreb D.O.O.: Arena Center Zagreb D.O.O. provides specialized services and solutions
+  - Description too generic for Obrt Za Ugostiteljstvo Mirakul: Obrt Za Ugostiteljstvo Mirakul provides specialized services and solutions
+  - Description too generic for Oakberry Jr D.O.O.: Oakberry Jr D.O.O. provides specialized services and solutions
+  - Description too generic for Tau On-Line D.O.O.: Tau On-Line D.O.O. provides specialized services and solutions
+  - Description too generic for Magic Mountain Saloon: Magic Mountain Saloon provides specialized services and solutions
+  - Description too generic for Hotel Zonar: Hotel Zonar provides specialized services and solutions
+  - Description too generic for Roto Dinamic D.O.O.: Roto Dinamic D.O.O. provides specialized services and solutions
+  - Description too generic for Tm Forum: Tm Forum provides specialized services and solutions
+  - Description too generic for Marvie Hotel - Krupa D.O.O.: Marvie Hotel - Krupa D.O.O. provides specialized services and solutions
+  - Description too generic for Merchandise Ltd: Merchandise provides specialized services and solutions
+  - Description too generic for Yellow Submarine D.O.O.: Yellow Submarine D.O.O. provides specialized services and solutions
+  - Description too generic for Streamlinereforms Inc: Streamlinereforms provides specialized services and solutions
+  - Description too generic for Make And Grow Ltd: Make And Grow provides specialized services and solutions
+  - Description too generic for Obiteljski Hoteli D.O.O.: Obiteljski Hoteli D.O.O. provides specialized services and solutions
+  - Description too generic for Rudan D.O.O.: Rudan D.O.O. provides specialized services and solutions
+  - Description too generic for Entrio Tehnologije D.O.O.: Entrio Tehnologije D.O.O. provides specialized services and solutions
+  - Description too generic for Vivat Fina Vina D.O.O.: Vivat Fina Vina D.O.O. provides specialized services and solutions
+  - Description too generic for E-Disti D.O.O.: E-Disti D.O.O. provides specialized services and solutions
+  - Description too generic for Greencell Express Private Limited: Greencell Express Private Limited provides specialized services and solutions
+  - Description too generic for Edwardian Pastoria Hotels Ltd (The Londoner): Edwardian Pastoria Hotels (The Londoner) provides specialized services and solutions
+  - Description too generic for Tiganda J.D.O.O.: Tiganda J.D.O.O. provides specialized services and solutions
+  - Description too generic for Franklin, Gringer & Cohen, P.C.: Franklin, Gringer & Cohen, P.C. provides specialized services and solutions
+  - Description too generic for Blitz - Cinestar D.O.O.: Blitz - Cinestar D.O.O. provides specialized services and solutions
+  - Description too generic for Lancefield Bus Service: Lancefield Bus Service provides specialized services and solutions
+  - Description too generic for Super Odrediå¡Te D.O.O.: Super Odrediå¡Te D.O.O. provides specialized services and solutions
+  - Description too generic for Pmi Global Operations Center: Pmi Global Operations Center provides specialized services and solutions
+  - Description too generic for Student Packers & Movers: Student Packers & Movers provides specialized services and solutions
+  - Description too generic for Del Posto D.O.O.: Del Posto D.O.O. provides specialized services and solutions
+  - Description too generic for Inicijativa Centar Za Edukaciju: Inicijativa Centar Za Edukaciju provides specialized services and solutions
+  - Description too generic for Niva Transport J.D.O.O.: Niva Transport J.D.O.O. provides specialized services and solutions
+  - Description too generic for Doctor Anywhere Operations Pte Ltd: Doctor Anywhere Operations Pte provides specialized services and solutions
+  - Description too generic for Spar Hrvatska D.O.O.: Spar Hrvatska D.O.O. provides specialized services and solutions
+  - Description too generic for Pepe'S Italian And Liquor: Pepe'S Italian And Liquor provides specialized services and solutions
+  - Description too generic for Pluralsight, Llc: Pluralsight, Llc provides specialized services and solutions
+  - Description too generic for Maniax Melbourne Cbd: Maniax Melbourne Cbd provides specialized services and solutions
+  - Description too generic for Treci Posao D.O.O.: Treci Posao D.O.O. provides specialized services and solutions
+  - Description too generic for Gaucho Restaurants: Gaucho Restaurants provides specialized services and solutions
+  - Description too generic for Safestore Ltd: Safestore provides specialized services and solutions
+  - Description too generic for Split Tech City: Split Tech City provides specialized services and solutions
+  - Description too generic for National Securities Depository Limited(Nsdl): National Securities Depository Limited(Nsdl) provides specialized services and solutions
+  - Description too generic for Adamma Info Services Private Limited: Adamma Info Services Private Limited provides specialized services and solutions
+  - Description too generic for The Riding House Cafe: The Riding House Cafe provides specialized services and solutions
+  - Description too generic for Stillmark Zagreb D.O.O.: Stillmark Zagreb D.O.O. provides specialized services and solutions
+  - Description too generic for Taste Of Health: Taste Of Health provides specialized services and solutions
+  - Description too generic for Infodata: Infodata provides specialized services and solutions
+  - Description too generic for Amazon (Aus): Amazon (Aus) provides specialized services and solutions
+  - Description too generic for Regency Hampers Ltd: Regency Hampers provides specialized services and solutions
+  - Description too generic for Bella Operation A/S: Bella Operation A/S provides specialized services and solutions
+  - Description too generic for The Plant Man: The Plant Man provides specialized services and solutions
+  - Description too generic for Media Promo Plus D.O.O.: Media Promo Plus D.O.O. provides specialized services and solutions
+  - Description too generic for Expert-Ing D.O.O.: Expert-Ing D.O.O. provides specialized services and solutions
+  - Description too generic for Djs For U: Djs For U provides specialized services and solutions
+  - Description too generic for Freepik Company: Freepik Company provides specialized services and solutions
+  - Description too generic for Nastavni Zavod Za Javno Zdravstvo Dr. Andrija Å Tampar: Nastavni Zavod Za Javno Zdravstvo Dr. Andrija Å Tampar provides specialized services and solutions
+  - Description too generic for Rishi Events And Entainment: Rishi Events And Entainment provides specialized services and solutions
+  - Description too generic for Kosmaz Technologies Croatia: Kosmaz Technologies Croatia provides specialized services and solutions
+  - Description too generic for Dhl: Dhl provides specialized services and solutions
+  - Description too generic for Hotel Laguna D.D.: Hotel Laguna D.D. provides specialized services and solutions
+  - Description too generic for Bigshare Services Private Limited: Bigshare Services Private Limited provides specialized services and solutions
+  - Description too generic for Zettanet: Zettanet provides specialized services and solutions
+  - Description too generic for Hahn Air: Hahn Air provides specialized services and solutions
+  - Description too generic for Vitality Works: Vitality Works provides specialized services and solutions
+  - Description too generic for Avoxi Inc: Avoxi provides specialized services and solutions
+  - Description too generic for Solarwinds, Inc: Solarwinds, provides specialized services and solutions
+  - Description too generic for Xenon Savjetovanje D.O.O.: Xenon Savjetovanje D.O.O. provides specialized services and solutions
+  - Description too generic for Floom Ltd: Floom provides specialized services and solutions
+  - Description too generic for Notino S.R.O.: Notino S.R.O. provides specialized services and solutions
+  - Description too generic for Paint&Wine, Vl. Stevo Dosen: Paint&Wine, Vl. Stevo Dosen provides specialized services and solutions
+  - Description too generic for Parcelforce Worldwide: Parcelforce Worldwide provides specialized services and solutions
+  - Description too generic for Advena: Advena provides specialized services and solutions
+  - Description too generic for Hrvatski Nezavisnici Izvoznici Softvera: Hrvatski Nezavisnici Izvoznici Softvera provides specialized services and solutions
+  - Description too generic for Monile J.D.O.O.: Monile J.D.O.O. provides specialized services and solutions
+  - Description too generic for Puzzle Promotion J.D.O.O.: Puzzle Promotion J.D.O.O. provides specialized services and solutions
+  - Description too generic for ZagrebaäKi Holding D.O.O.: ZagrebaäKi Holding D.O.O. provides specialized services and solutions
+  - Description too generic for Event Ors: Event Ors provides specialized services and solutions
+  - Description too generic for Sportkart D.O.O.: Sportkart D.O.O. provides specialized services and solutions
+  - Description too generic for Interaction Design Foundation, Inc: Interaction Design Foundation, provides specialized services and solutions
+  - Description too generic for (Blank): (Blank) provides specialized services and solutions
+  - Description too generic for Escape Art D.O.O.: Escape Art D.O.O. provides specialized services and solutions
+  - Description too generic for Fero-Term: Fero-Term provides specialized services and solutions
+  - Description too generic for Ustanova Za Zdravstvenu Skrb P.P.: Ustanova Za Zdravstvenu Skrb P.P. provides specialized services and solutions
+  - Description too generic for Vistaprint: Vistaprint provides specialized services and solutions
+  - Description too generic for Teb Poslovno Savjetovanje D.O.O.: Teb Poslovno Savjetovanje D.O.O. provides specialized services and solutions
+  - Description too generic for Illunis D.O.O.: Illunis D.O.O. provides specialized services and solutions
+  - Description too generic for The Cook Kitchen: The Cook Kitchen provides specialized services and solutions
+  - Description too generic for Australian Taxation Office (Ato): Australian Taxation Office (Ato) provides specialized services and solutions
+  - Description too generic for Capitol Services: Capitol Services provides specialized services and solutions
+  - Description too generic for Bonus Opinio D.O.O.: Bonus Opinio D.O.O. provides specialized services and solutions
+  - Description too generic for Dhl Express (Uk) Ltd: Dhl Express (Uk) provides specialized services and solutions
+  - Description too generic for Kat'S Kitchen D.O.O.: Kat'S Kitchen D.O.O. provides specialized services and solutions
+  - Description too generic for Soho Kitchen Ltd: Soho Kitchen provides specialized services and solutions
+  - Description too generic for Fortis Trade J.D.O.O.: Fortis Trade J.D.O.O. provides specialized services and solutions
+  - Description too generic for Till Trade D.O.O.: Till Trade D.O.O. provides specialized services and solutions
+  - Description too generic for Pret A Manger: Pret A Manger provides specialized services and solutions
+  - Description too generic for Axil Coffee Roasters: Axil Coffee Roasters provides specialized services and solutions
+  - Description too generic for Pepco Croatia D.O.O.: Pepco Croatia D.O.O. provides specialized services and solutions
+  - Description too generic for Lemia D.O.O.: Lemia D.O.O. provides specialized services and solutions
+  - Description too generic for Retriever Llc: Retriever Llc provides specialized services and solutions
+  - Description too generic for Meluba Limited: Meluba Limited provides specialized services and solutions
+  - Description too generic for London Waste Management: London Waste Management provides specialized services and solutions
+  - Description too generic for Hilton Garden Inn - Zagreb City Hotels D.O.O.: Hilton Garden Inn - Zagreb City Hotels D.O.O. provides specialized services and solutions
+  - Description too generic for Lider Media D.O.O.: Lider Media D.O.O. provides specialized services and solutions
+  - Description too generic for Mithras Consultants: Mithras Consultants provides specialized services and solutions
+  - Description too generic for 6Sense Insights Inc: 6Sense Insights provides specialized services and solutions
+  - Description too generic for Ico: Ico provides specialized services and solutions
+  - Description too generic for Sportska Udruga Split: Sportska Udruga Split provides specialized services and solutions
+  - Description too generic for Prezzee: Prezzee provides specialized services and solutions
+  - Description too generic for Inet Telecoms Ltd.: Inet Telecoms. provides specialized services and solutions
+  - Description too generic for Wolt Enterprises Oy: Wolt Enterprises Oy provides specialized services and solutions
+  - Description too generic for Platinum Office D.O.O.: Platinum Office D.O.O. provides specialized services and solutions
+  - Description too generic for Snappy Snaps: Snappy Snaps provides specialized services and solutions
+  - Description too generic for New Block D.O.O.: New Block D.O.O. provides specialized services and solutions
+  - Description too generic for Cayman Islands Government: Cayman Islands Government provides specialized services and solutions
+  - Description too generic for Officeworks: Officeworks provides specialized services and solutions
+  - Description too generic for Click Send Pty Ltd: Click Send Pty provides specialized services and solutions
+  - Description too generic for Kall Kwik Centre 565: Kall Kwik Centre 565 provides specialized services and solutions
+  - Description too generic for Shilton Hospitality Llp: Shilton Hospitality provides specialized services and solutions
+  - Description too generic for Axosoft Gitkraken: Axosoft Gitkraken provides specialized services and solutions
+  - Description too generic for Istra Wine: Istra Wine provides specialized services and solutions
+  - Description too generic for Gophr: Gophr provides specialized services and solutions
+  - Description too generic for Pan-Pek D.O.O.: Pan-Pek D.O.O. provides specialized services and solutions
+  - Description too generic for Uber *Eats: Uber *Eats provides specialized services and solutions
+  - Description too generic for Fedex Express Uk Transportation Ltd: Fedex Express Uk Transportation provides specialized services and solutions
+  - Description too generic for Garden City D.O.O.: Garden City D.O.O. provides specialized services and solutions
+  - Description too generic for Livingstone: Livingstone provides specialized services and solutions
+  - Description too generic for Ekupi D.O.O.: Ekupi D.O.O. provides specialized services and solutions
+  - Description too generic for Farmacia - Specijalizirana Prodavaonica D.O.O.: Farmacia - Specijalizirana Prodavaonica D.O.O. provides specialized services and solutions
+  - Description too generic for Cupcake Central (Life Is Sweet Bakery): Cupcake Central (Life Is Sweet Bakery) provides specialized services and solutions
+  - Description too generic for Post Office Ltd: Post Office provides specialized services and solutions
+  - Description too generic for Currys Pc World: Currys Pc World provides specialized services and solutions
+  - Description too generic for Brodomerkur D.D.: Brodomerkur D.D. provides specialized services and solutions
+  - Description too generic for Sport Vision D.O.O.: Sport Vision D.O.O. provides specialized services and solutions
+  - Description too generic for Harissa D.O.O.: Harissa D.O.O. provides specialized services and solutions
+  - Description too generic for Specijalisticka Ordinacija Medicine Rada I Sporta Ina Kardos: Specijalisticka Ordinacija Medicine Rada I Sporta Ina Kardos provides specialized services and solutions
+  - Description too generic for Specijalisticka Ordinacija Medicine Rada Helena Blazic: Specijalisticka Ordinacija Medicine Rada Helena Blazic provides specialized services and solutions
+  - Description too generic for Ustanova Za Medicinu Rada I Sporta Dr. Novacki: Ustanova Za Medicinu Rada I Sporta Dr. Novacki provides specialized services and solutions
+  - Description too generic for M&S Simply Food: M&S Simply Food provides specialized services and solutions
+  - Description too generic for Bakemono Bakers Melbourne: Bakemono Bakers Melbourne provides specialized services and solutions
+  - Description too generic for Coles: Coles provides specialized services and solutions
